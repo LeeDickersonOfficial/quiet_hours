@@ -1,0 +1,6 @@
+{
+  "name": "Quiet Hours",
+  "content_in_root": false,
+  "domains": ["quiet_hours"],
+  "iot_class": "Local Push"
+}
