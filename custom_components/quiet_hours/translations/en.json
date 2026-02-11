@@ -1,0 +1,14 @@
+{
+  "title": "Quiet Hours",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configure Quiet Hours",
+        "description": "Quiet Hours allows you to temporarily silence selected devices with a single switch. Choose which media players should be muted when Quiet Hours is enabled.",
+        "data": {
+          "media_players": "Media players to mute"
+        }
+      }
+    }
+  }
+}

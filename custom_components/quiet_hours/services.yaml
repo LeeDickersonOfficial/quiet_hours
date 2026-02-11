@@ -1,0 +1,11 @@
+enable:
+  name: Enable Quiet Hours
+  description: >
+    Activates Quiet Hours. Selected media players will be muted
+    and remain muted until Quiet Hours is disabled.
+
+disable:
+  name: Disable Quiet Hours
+  description: >
+    Deactivates Quiet Hours and restores media players to their
+    previous mute state.
